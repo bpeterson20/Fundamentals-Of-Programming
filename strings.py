@@ -1,3 +1,4 @@
+## adding a comment in remote repo
 # Do not use reserved keywords for variable name
 """
 print('Hello World')
@@ -16,7 +17,6 @@ print(a, b, c)
 x = 47  # statement
 y = x + 10  # expression
 
-
 # TYPE CONVERSION --> to change the data type of a variable
 # Convert float and numeric strings to int
 print(int("20"))
@@ -26,7 +26,6 @@ print(type(int("20")))
 print(int(14.21))
 # print(int("20.24")) # errors out because int expects only whole number inside
 print(int(float("20.24")))
-
 
 # STRINGS
 # 3 ways to create a string - using either single, double, triple quotes
